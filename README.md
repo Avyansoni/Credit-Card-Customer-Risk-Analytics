@@ -46,13 +46,13 @@ Key Features:
 # Dashboard Preview
 
 ## Dashboard
-![Dashboard](IMG1 DASHBOARD)
+![Dashboard](IMG1%20DASHBOARD.png)
 
 ### Key Business Insights
-![Key Business Insights](IMG2 KEY INSIGHTS)
+![Key Business Insights](IMG2%20KEY%20INSIGHTS.png)
 
 ### Project Overview
-![Project Overview](Project_Overview.png)
+![Project Overview](Project_Overview.png.png)
 
 ## Dashboard Features
 - Interactive slicers and filters
